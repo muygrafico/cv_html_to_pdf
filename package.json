@@ -1,0 +1,25 @@
+{
+  "name": "kaizen_curriculum_vitae",
+  "version": "1.0.0",
+  "description": "project to easily create a CV in html and convert it to PDF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/muygrafico/cv_html_to_pdf"
+  },
+  "keywords": [
+    "CV",
+    "HTML",
+    "PDF",
+    "Gulp",
+    "JS",
+    "Javascript",
+    "Curriculum",
+    "Vitae"
+  ],
+  "author": "German Hernandez",
+  "license": "ISC"
+}
